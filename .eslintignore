@@ -6,3 +6,5 @@ temp
 docs
 dist
 node_modules
+src/Overflow.ts
+src/TextArea.ts
